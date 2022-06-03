@@ -1,1 +1,2 @@
-#!/bin/bash\ntr -d "c" "C"
+#!/bin/bash
+tr -d "c" "C"
