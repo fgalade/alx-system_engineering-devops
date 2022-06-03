@@ -1,3 +1,6 @@
 #!/bin/bash
 echo 'Aca' | tr 'Ac' 'Ze'
 tr "A" "Z" | tr "c" "e"
+#!/bin/bash\ntr "A" "Z" | tr "c" "e"
+#!/bin/bash
+tr "A" "Z" | tr "c" "e"
